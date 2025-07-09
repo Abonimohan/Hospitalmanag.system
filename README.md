@@ -20,21 +20,6 @@
 - **MySQL**: For managing the database and real-time data handling.
 - **MySQL Workbench**: For database design and management.
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. **Setup MySQL Database**:
-   - Import the provided SQL schema into MySQL Workbench to create the necessary tables and structure.
-   - Update the database connection details in the `LoginPage` class if needed.
-
-3. **Build and Run the Application**:
-   - Open the project in NetBeans or any IDE that supports Java.
-   - Build the project to ensure all dependencies are resolved.
-   - Run the `LoginPage` class to start the application.
 
 
 ## Usage
